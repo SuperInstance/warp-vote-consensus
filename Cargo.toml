@@ -1,0 +1,7 @@
+[package]
+name = "warp-vote-consensus"
+version = "0.1.0"
+edition = "2021"
+description = "GPU warp-vote hardware as agent consensus primitive. 32-thread ballots map to ternary voting, with quorum tree and CRDT merge for fleet-wide decisions."
+license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/warp-vote-consensus"
